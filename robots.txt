@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afhjsjkqr.github.io/sitemap.xml
